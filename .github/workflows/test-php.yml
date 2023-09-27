@@ -3,7 +3,7 @@ name: PHP Testing
 on:
   pull_request:
     branches:
-      - master
+      - development
 
 jobs:
   run:
